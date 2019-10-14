@@ -1,0 +1,12 @@
+[package]
+name = "snn-mnist"
+version = "0.1.0"
+authors = ["doraneko94 <shuntaro941@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+random = "0.4.2"
+image = "*"
+rayon = "1.0"
